@@ -3,8 +3,8 @@ The purpose of this repository is to demonstrate python, visualization and by au
 The data is hospital data and management is interested in resolving complaints on wait times. The Absent Data data analyst produces four visualizations to gain insight into the hospital wait times and includes these in the final presentation of a data story instead of a single dashboard. The visualizations in data order-story are:
 - Count of Patients by Financial Class
 - Count of Patients by Day of Week 
-- Average Wait Time by Hours of Day and Day of Week
-- Average Wait Time and Count of Patients By Day of Week
+- Heatmap of Average Wait Time by Hours of Day and Day of Week
+- Combo Chart Average Wait Time and Count of Patients By Day of Week
 
 
 
