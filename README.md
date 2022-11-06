@@ -1,0 +1,1 @@
+This repository contains a demonstration of Python, Plotly for visualization and analytical skills. The data story from [Absent Data's Hospital Wait Times YouTube Beginner project](https://youtu.be/34cvSgkuaqc) is reproduced with python, Google colab notebook and plotly. The original project is done with Excel and PowerPoint.
